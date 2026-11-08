@@ -1,0 +1,25 @@
+{
+  "title": "I Married a Broken Soldier. He was a Duke",
+  "episodes": 50,
+  "candidates": 260,
+  "mode": "rules",
+  "llm_usage": null,
+  "runtime_sec": 3.9,
+  "evals_summary": {
+    "recall": {
+      "recall@10": "7/17",
+      "recall@20": "10/17",
+      "recall@40": "12/17",
+      "recall@all": "17/17"
+    },
+    "cliff": {
+      "labelled_endings": 38,
+      "tp": 16,
+      "fp": 1,
+      "fn": 14,
+      "tn": 7,
+      "precision": 0.94,
+      "recall": 0.53
+    }
+  }
+}

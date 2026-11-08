@@ -1,0 +1,22 @@
+{
+  "_note": "Reference promo moments picked by reading the scripts BEFORE looking at any tool output. Used only to measure recall. Each entry: list of [episode, start_sec, end_sec] segments.",
+  "items": [
+    {"id": "H01", "label": "Ep1 altar betrayal: 'Why are you holding her hand?' / 'Because he is marrying me.'", "segments": [[1, 33.0, 79.0]]},
+    {"id": "H02", "label": "Ep3 guards drag her out, scarred stranger drops a guard", "segments": [[3, 58.0, 95.0]]},
+    {"id": "H03", "label": "Ep3 stranger kneels: 'Lady Juliana... accept my hand.'", "segments": [[3, 128.0, 145.0]]},
+    {"id": "H04", "label": "Ep5 stepmother throws mother's ledger into the mud", "segments": [[5, 42.0, 66.0]]},
+    {"id": "H05", "label": "Ep11 constable pulls the planted watch from his coat", "segments": [[11, 85.0, 112.0]]},
+    {"id": "H06", "label": "Ep12 Clarissa's ultimatum: thorns barehanded or husband hangs", "segments": [[12, 42.0, 84.0]]},
+    {"id": "H07", "label": "Ep13 Juliana crawls into the blackthorn briars", "segments": [[13, 45.0, 110.0]]},
+    {"id": "H08", "label": "Ep16 catches the club, 'Who sent you?' - 'Gerald Harrington paid us!'", "segments": [[16, 14.0, 56.0]]},
+    {"id": "H09", "label": "Ep18 cottage fire, runs back for the ledger, beam crashes", "segments": [[18, 56.0, 95.0]]},
+    {"id": "H10", "label": "Ep24 noblewoman strikes her with a riding crop", "segments": [[24, 20.0, 64.0]]},
+    {"id": "H11", "label": "Ep26-27 Duchess recognises the ring: 'Where did you get this ring?'", "segments": [[26, 86.0, 121.0], [27, 0.0, 50.0]]},
+    {"id": "H12", "label": "Ep28 Catherine unmasks 'Lady Juliana Ashcroft', threatens gallows", "segments": [[28, 88.0, 138.0]]},
+    {"id": "H13", "label": "Ep31-32 Catherine with the red-hot iron", "segments": [[31, 131.0, 160.0], [32, 120.0, 154.0]]},
+    {"id": "H14", "label": "Ep36 'their dead Duke is coming home'", "segments": [[36, 156.0, 200.0]]},
+    {"id": "H15", "label": "Ep41-42 cathedral doors explode, 'Who are you?' - 'You already know.'", "segments": [[41, 60.0, 96.0], [42, 0.0, 35.0]]},
+    {"id": "H16", "label": "Ep44 Catherine begs Alexander, ends 'Her?!'", "segments": [[44, 25.0, 70.5]]},
+    {"id": "H17", "label": "Ep45 'You're the Duke?' / 'Duchess of Ashburton!' / 'Juliana?!'", "segments": [[45, 10.0, 30.0], [45, 50.0, 85.0]]}
+  ]
+}

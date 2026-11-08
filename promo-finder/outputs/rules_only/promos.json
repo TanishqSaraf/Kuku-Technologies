@@ -1,0 +1,1240 @@
+[
+  {
+    "rank": 1,
+    "id": "P001",
+    "type": "single",
+    "duration_sec": 37.7,
+    "segments": [
+      {
+        "episode": 24,
+        "start": "00:32.80",
+        "end": "01:10.50",
+        "start_sec": 32.8,
+        "end_sec": 70.5,
+        "duration_sec": 37.7
+      }
+    ],
+    "hook": {
+      "at": "Ep24 00:32.80",
+      "beat": "A sharp, stinging whip crack as the riding crop makes harsh contact.",
+      "speaker": "",
+      "type": "physical violence"
+    },
+    "cliffhanger": {
+      "at": "Ep24 01:08.00",
+      "beat": "Do you want the same punishment?",
+      "speaker": "NOBLEWOMAN",
+      "type": "an unanswered question"
+    },
+    "why_it_works": "Opens on physical violence and cuts on an unanswered question; relationships are spelled out on screen, so it plays cold.",
+    "why_this_rank": "Top-tier score; from Ep 24; good mid-funnel promo once the opening promos are live.",
+    "score": 90.73,
+    "rule_score": 90.73,
+    "post_priority": 93.73,
+    "score_parts": {
+      "hook": 1.0,
+      "cliff": 0.938,
+      "standalone": 0.84,
+      "body": 0.741,
+      "pace": 0.76
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep23 01:58.50-02:11.50 | Ep24 00:32.50-01:07.80"
+    ]
+  },
+  {
+    "rank": 2,
+    "id": "P002",
+    "type": "single",
+    "duration_sec": 34.6,
+    "segments": [
+      {
+        "episode": 45,
+        "start": "00:53.80",
+        "end": "01:28.40",
+        "start_sec": 53.8,
+        "end_sec": 88.4,
+        "duration_sec": 34.6
+      }
+    ],
+    "hook": {
+      "at": "Ep45 00:54.00",
+      "beat": "You poisoned my mother. You tortured my wife.",
+      "speaker": "ALEXANDER",
+      "type": "a life-or-death threat"
+    },
+    "cliffhanger": {
+      "at": "Ep45 01:27.50",
+      "beat": "A Catholic Bishop in dark vestments steps through the cathedral doors accompanied by an armed Crown officer.",
+      "speaker": "",
+      "type": "someone bursting in"
+    },
+    "why_it_works": "Opens on a life-or-death threat and cuts on someone bursting in; relationships are spelled out on screen, so it plays cold.",
+    "why_this_rank": "Top-tier score; from Ep 45; spoils later twists, so post after the early-episode promos.",
+    "score": 95.97,
+    "rule_score": 95.97,
+    "post_priority": 92.97,
+    "score_parts": {
+      "hook": 0.952,
+      "cliff": 1.0,
+      "standalone": 1.0,
+      "body": 0.833,
+      "pace": 0.933
+    },
+    "qc_flags": [
+      "LATE_SERIES_SPOILER_RISK"
+    ],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep45 00:53.80-01:02.50 | Ep45 01:14.50-01:28.40"
+    ]
+  },
+  {
+    "rank": 3,
+    "id": "P003",
+    "type": "jumpcut",
+    "duration_sec": 47.2,
+    "segments": [
+      {
+        "episode": 32,
+        "start": "00:52.50",
+        "end": "01:22.50",
+        "start_sec": 52.5,
+        "end_sec": 82.5,
+        "duration_sec": 30.0
+      },
+      {
+        "episode": 32,
+        "start": "02:14.80",
+        "end": "02:32.00",
+        "start_sec": 134.8,
+        "end_sec": 152.0,
+        "duration_sec": 17.2
+      }
+    ],
+    "hook": {
+      "at": "Ep32 00:52.80",
+      "beat": "You are lying!",
+      "speaker": "CATHERINE",
+      "type": "a betrayal"
+    },
+    "cliffhanger": {
+      "at": "Ep32 02:31.20",
+      "beat": "Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye.",
+      "speaker": "",
+      "type": "a blow that is about to land"
+    },
+    "why_it_works": "Opens on a betrayal and cuts on a blow that is about to land; relationships are spelled out on screen, so it plays cold. Jump cut skips the slow middle.",
+    "why_this_rank": "Top-tier score; from Ep 32; spoils later twists, so post after the early-episode promos.",
+    "score": 92.41,
+    "rule_score": 92.41,
+    "post_priority": 92.41,
+    "score_parts": {
+      "hook": 1.0,
+      "cliff": 0.938,
+      "standalone": 0.92,
+      "body": 0.948,
+      "pace": 1.0
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep32 00:52.50-01:20.00"
+    ]
+  },
+  {
+    "rank": 4,
+    "id": "P004",
+    "type": "single",
+    "duration_sec": 42.7,
+    "segments": [
+      {
+        "episode": 12,
+        "start": "00:26.80",
+        "end": "01:09.50",
+        "start_sec": 26.8,
+        "end_sec": 69.5,
+        "duration_sec": 42.7
+      }
+    ],
+    "hook": {
+      "at": "Ep12 00:26.80",
+      "beat": "You planted it!",
+      "speaker": "JULIANA",
+      "type": "a betrayal"
+    },
+    "cliffhanger": {
+      "at": "Ep12 01:05.40",
+      "beat": "Fail, or refuse, and your husband hangs from the gallows.",
+      "speaker": "CLARISSA",
+      "type": "a cruel line nobody has answered yet"
+    },
+    "why_it_works": "Opens on a betrayal and cuts on a cruel line nobody has answered yet; relationships are spelled out on screen, so it plays cold.",
+    "why_this_rank": "Top-tier score; from Ep 12; good mid-funnel promo once the opening promos are live.",
+    "score": 89.25,
+    "rule_score": 89.25,
+    "post_priority": 92.25,
+    "score_parts": {
+      "hook": 1.0,
+      "cliff": 0.688,
+      "standalone": 0.96,
+      "body": 0.922,
+      "pace": 1.0
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep12 00:26.80-00:46.60 | Ep12 01:00.80-01:09.50"
+    ]
+  },
+  {
+    "rank": 5,
+    "id": "P005",
+    "type": "single",
+    "duration_sec": 34.6,
+    "segments": [
+      {
+        "episode": 1,
+        "start": "00:46.80",
+        "end": "01:21.40",
+        "start_sec": 46.8,
+        "end_sec": 81.4,
+        "duration_sec": 34.6
+      }
+    ],
+    "hook": {
+      "at": "Ep1 00:46.80",
+      "beat": "You knew this before I walked through those doors!",
+      "speaker": "LADY JULIANA",
+      "type": "a direct confrontation"
+    },
+    "cliffhanger": {
+      "at": "Ep1 01:20.10",
+      "beat": "Father...",
+      "speaker": "LADY JULIANA",
+      "type": "a line cut off mid-sentence"
+    },
+    "why_it_works": "Opens on a direct confrontation and cuts on a line cut off mid-sentence; relationships are spelled out on screen, so it plays cold.",
+    "why_this_rank": "Top-tier score; from Ep 1, so a new viewer lands right where the promo happens.",
+    "score": 84.17,
+    "rule_score": 84.17,
+    "post_priority": 90.17,
+    "score_parts": {
+      "hook": 0.75,
+      "cliff": 0.938,
+      "standalone": 1.0,
+      "body": 0.552,
+      "pace": 0.927
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep1 00:46.80-01:00.10 | Ep1 01:14.60-01:21.40",
+      "Ep1 00:39.00-00:50.40 | Ep1 01:03.00-01:21.40"
+    ]
+  },
+  {
+    "rank": 6,
+    "id": "P006",
+    "type": "jumpcut",
+    "duration_sec": 36.8,
+    "segments": [
+      {
+        "episode": 43,
+        "start": "00:00.00",
+        "end": "00:08.00",
+        "start_sec": 0.0,
+        "end_sec": 8.0,
+        "duration_sec": 8.0
+      },
+      {
+        "episode": 43,
+        "start": "01:21.00",
+        "end": "01:49.80",
+        "start_sec": 81.0,
+        "end_sec": 109.8,
+        "duration_sec": 28.8
+      }
+    ],
+    "hook": {
+      "at": "Ep43 00:00.60",
+      "beat": "You're lying!",
+      "speaker": "BLOND NOBLEMAN",
+      "type": "a betrayal"
+    },
+    "cliffhanger": {
+      "at": "Ep43 01:47.00",
+      "beat": "Heavy iron latch clicking open and wooden door creaking.",
+      "speaker": "",
+      "type": "someone bursting in"
+    },
+    "why_it_works": "Opens on a betrayal and cuts on someone bursting in; needs a little context to land. Jump cut skips the slow middle.",
+    "why_this_rank": "Top-tier score; from Ep 43; spoils later twists, so post after the early-episode promos.",
+    "score": 87.22,
+    "rule_score": 87.22,
+    "post_priority": 84.22,
+    "score_parts": {
+      "hook": 1.0,
+      "cliff": 0.906,
+      "standalone": 0.64,
+      "body": 1.0,
+      "pace": 0.943
+    },
+    "qc_flags": [
+      "LATE_SERIES_SPOILER_RISK"
+    ],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep43 01:08.80-01:49.80"
+    ]
+  },
+  {
+    "rank": 7,
+    "id": "P007",
+    "type": "single",
+    "duration_sec": 47.8,
+    "segments": [
+      {
+        "episode": 11,
+        "start": "00:29.00",
+        "end": "01:16.80",
+        "start_sec": 29.0,
+        "end_sec": 76.8,
+        "duration_sec": 47.8
+      }
+    ],
+    "hook": {
+      "at": "Ep11 00:29.30",
+      "beat": "Of course you would defend him. You married a beggar!",
+      "speaker": "GERALD",
+      "type": "a betrayal"
+    },
+    "cliffhanger": {
+      "at": "Ep11 01:15.50",
+      "beat": "Happy?",
+      "speaker": "GERALD",
+      "type": "an unanswered question"
+    },
+    "why_it_works": "Opens on a betrayal and cuts on an unanswered question; relationships are spelled out on screen, so it plays cold.",
+    "why_this_rank": "Strong score; from Ep 11; good mid-funnel promo once the opening promos are live.",
+    "score": 78.62,
+    "rule_score": 81.62,
+    "post_priority": 81.62,
+    "score_parts": {
+      "hook": 0.904,
+      "cliff": 0.688,
+      "standalone": 0.76,
+      "body": 0.796,
+      "pace": 1.0
+    },
+    "qc_flags": [
+      "NEEDS_CONTEXT"
+    ],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep11 00:29.00-00:46.80 | Ep11 00:58.00-01:16.80"
+    ]
+  },
+  {
+    "rank": 8,
+    "id": "P008",
+    "type": "single",
+    "duration_sec": 20.0,
+    "segments": [
+      {
+        "episode": 4,
+        "start": "01:54.80",
+        "end": "02:14.80",
+        "start_sec": 114.8,
+        "end_sec": 134.8,
+        "duration_sec": 20.0
+      }
+    ],
+    "hook": {
+      "at": "Ep4 01:55.00",
+      "beat": "You have thrown yourself away!",
+      "speaker": "GERALD",
+      "type": "a life-or-death threat"
+    },
+    "cliffhanger": {
+      "at": "Ep4 02:12.00",
+      "beat": "You are disowned!",
+      "speaker": "LADY ASHCROFT",
+      "type": "a cruel line nobody has answered yet"
+    },
+    "why_it_works": "Opens on a life-or-death threat and cuts on a cruel line nobody has answered yet; needs a little context to land.",
+    "why_this_rank": "Strong score; from Ep 4, so a new viewer lands right where the promo happens.",
+    "score": 75.5,
+    "rule_score": 75.5,
+    "post_priority": 81.5,
+    "score_parts": {
+      "hook": 1.0,
+      "cliff": 0.5,
+      "standalone": 0.6,
+      "body": 0.893,
+      "pace": 0.958
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep4 00:05.00-00:15.00 | Ep4 01:54.80-02:14.80"
+    ]
+  },
+  {
+    "rank": 9,
+    "id": "P009",
+    "type": "single",
+    "duration_sec": 29.9,
+    "segments": [
+      {
+        "episode": 3,
+        "start": "00:58.20",
+        "end": "01:28.10",
+        "start_sec": 58.2,
+        "end_sec": 88.1,
+        "duration_sec": 29.9
+      }
+    ],
+    "hook": {
+      "at": "Ep3 00:58.30",
+      "beat": "Guards! Remove her!",
+      "speaker": "NOBLE MATRIARCH",
+      "type": "a life-or-death threat"
+    },
+    "cliffhanger": {
+      "at": "Ep3 01:25.60",
+      "beat": "What are you waiting for?! He's only one man!",
+      "speaker": "THE FORMER GROOM",
+      "type": "an unanswered question"
+    },
+    "why_it_works": "Opens on a life-or-death threat and cuts on an unanswered question; needs a little context to land.",
+    "why_this_rank": "Strong score; from Ep 3, so a new viewer lands right where the promo happens.",
+    "score": 75.46,
+    "rule_score": 76.46,
+    "post_priority": 81.46,
+    "score_parts": {
+      "hook": 0.951,
+      "cliff": 0.562,
+      "standalone": 0.56,
+      "body": 1.0,
+      "pace": 0.79
+    },
+    "qc_flags": [
+      "MANY_CHARACTERS"
+    ],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": []
+  },
+  {
+    "rank": 10,
+    "id": "P010",
+    "type": "single",
+    "duration_sec": 51.3,
+    "segments": [
+      {
+        "episode": 36,
+        "start": "02:25.80",
+        "end": "03:17.10",
+        "start_sec": 145.8,
+        "end_sec": 197.1,
+        "duration_sec": 51.3
+      }
+    ],
+    "hook": {
+      "at": "Ep36 02:26.50",
+      "beat": "What wedding?",
+      "speaker": "ALEXANDER",
+      "type": "a betrayal"
+    },
+    "cliffhanger": {
+      "at": "Ep36 03:17.00",
+      "beat": "A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into silence.",
+      "speaker": "",
+      "type": "a reveal left hanging"
+    },
+    "why_it_works": "Opens on a betrayal and cuts on a reveal left hanging; relationships are spelled out on screen, so it plays cold.",
+    "why_this_rank": "Top-tier score; from Ep 36; spoils later twists, so post after the early-episode promos.",
+    "score": 81.25,
+    "rule_score": 81.25,
+    "post_priority": 81.25,
+    "score_parts": {
+      "hook": 0.687,
+      "cliff": 1.0,
+      "standalone": 1.0,
+      "body": 0.73,
+      "pace": 0.691
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep36 02:25.80-02:43.00 | Ep36 03:01.80-03:17.10"
+    ]
+  },
+  {
+    "rank": 11,
+    "id": "P011",
+    "type": "single",
+    "duration_sec": 39.5,
+    "segments": [
+      {
+        "episode": 29,
+        "start": "00:56.60",
+        "end": "01:36.10",
+        "start_sec": 56.6,
+        "end_sec": 96.1,
+        "duration_sec": 39.5
+      }
+    ],
+    "hook": {
+      "at": "Ep29 00:56.70",
+      "beat": "You are doing this because I saved the Duchess!",
+      "speaker": "JULIANA",
+      "type": "an identity reveal"
+    },
+    "cliffhanger": {
+      "at": "Ep29 01:34.20",
+      "beat": "Mother...",
+      "speaker": "JULIANA",
+      "type": "a line cut off mid-sentence"
+    },
+    "why_it_works": "Opens on an identity reveal and cuts on a line cut off mid-sentence; relationships are spelled out on screen, so it plays cold.",
+    "why_this_rank": "Top-tier score; from Ep 29; spoils later twists, so post after the early-episode promos.",
+    "score": 81.11,
+    "rule_score": 81.11,
+    "post_priority": 81.11,
+    "score_parts": {
+      "hook": 1.0,
+      "cliff": 0.625,
+      "standalone": 1.0,
+      "body": 0.711,
+      "pace": 0.525
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep29 00:56.60-01:11.80 | Ep29 01:23.00-01:36.10"
+    ]
+  },
+  {
+    "rank": 12,
+    "id": "P012",
+    "type": "single",
+    "duration_sec": 46.9,
+    "segments": [
+      {
+        "episode": 2,
+        "start": "00:04.60",
+        "end": "00:51.50",
+        "start_sec": 4.6,
+        "end_sec": 51.5,
+        "duration_sec": 46.9
+      }
+    ],
+    "hook": {
+      "at": "Ep2 00:04.70",
+      "beat": "You are far too plain...",
+      "speaker": "THE FORMER GROOM",
+      "type": "public humiliation"
+    },
+    "cliffhanger": {
+      "at": "Ep2 00:47.80",
+      "beat": "Why are you surprised, sister? Look at you.",
+      "speaker": "LADY IN GOLD GOWN",
+      "type": "an unanswered question"
+    },
+    "why_it_works": "Opens on public humiliation and cuts on an unanswered question; relationships are spelled out on screen, so it plays cold.",
+    "why_this_rank": "Strong score; from Ep 2, so a new viewer lands right where the promo happens.",
+    "score": 75.0,
+    "rule_score": 75.0,
+    "post_priority": 81.0,
+    "score_parts": {
+      "hook": 0.704,
+      "cliff": 0.75,
+      "standalone": 0.84,
+      "body": 0.526,
+      "pace": 1.0
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep2 00:00.00-00:06.60 | Ep2 00:18.00-00:51.50"
+    ]
+  },
+  {
+    "rank": 13,
+    "id": "P013",
+    "type": "continuation",
+    "duration_sec": 46.7,
+    "segments": [
+      {
+        "episode": 26,
+        "start": "01:50.80",
+        "end": "02:00.88",
+        "start_sec": 110.8,
+        "end_sec": 120.88,
+        "duration_sec": 10.08
+      },
+      {
+        "episode": 27,
+        "start": "00:44.20",
+        "end": "01:20.80",
+        "start_sec": 44.2,
+        "end_sec": 80.8,
+        "duration_sec": 36.6
+      }
+    ],
+    "hook": {
+      "at": "Ep26 01:51.00",
+      "beat": "Where... where... Where did you get this ring? Speak to me!",
+      "speaker": "DOWAGER DUCHESS",
+      "type": "an identity reveal"
+    },
+    "cliffhanger": {
+      "at": "Ep27 01:18.10",
+      "beat": "Who permitted you to give medicine to the Duchess?",
+      "speaker": "LADY CATHERINE",
+      "type": "an unanswered question"
+    },
+    "why_it_works": "Opens on an identity reveal and cuts on an unanswered question; needs a little context to land. Pairs one episode's cliffhanger with the next episode's payoff.",
+    "why_this_rank": "Top-tier score; from Ep 26; spoils later twists, so post after the early-episode promos.",
+    "score": 80.55,
+    "rule_score": 80.55,
+    "post_priority": 80.55,
+    "score_parts": {
+      "hook": 1.0,
+      "cliff": 0.75,
+      "standalone": 0.72,
+      "body": 0.73,
+      "pace": 0.796
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep27 00:34.90-01:20.80",
+      "Ep27 00:01.10-00:13.20 | Ep27 00:51.50-01:20.80"
+    ]
+  },
+  {
+    "rank": 14,
+    "id": "P014",
+    "type": "single",
+    "duration_sec": 26.7,
+    "segments": [
+      {
+        "episode": 28,
+        "start": "01:47.80",
+        "end": "02:14.50",
+        "start_sec": 107.8,
+        "end_sec": 134.5,
+        "duration_sec": 26.7
+      }
+    ],
+    "hook": {
+      "at": "Ep28 01:48.10",
+      "beat": "The bride who married a penniless war veteran...",
+      "speaker": "CATHERINE",
+      "type": "a betrayal"
+    },
+    "cliffhanger": {
+      "at": "Ep28 02:11.40",
+      "beat": "Then perhaps you can explain every page to the magistrate...",
+      "speaker": "CATHERINE",
+      "type": "a cruel line nobody has answered yet"
+    },
+    "why_it_works": "Opens on a betrayal and cuts on a cruel line nobody has answered yet; relationships are spelled out on screen, so it plays cold.",
+    "why_this_rank": "Strong score; from Ep 28; spoils later twists, so post after the early-episode promos.",
+    "score": 78.95,
+    "rule_score": 78.95,
+    "post_priority": 78.95,
+    "score_parts": {
+      "hook": 0.844,
+      "cliff": 0.562,
+      "standalone": 1.0,
+      "body": 0.756,
+      "pace": 1.0
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": []
+  },
+  {
+    "rank": 15,
+    "id": "P015",
+    "type": "single",
+    "duration_sec": 32.2,
+    "segments": [
+      {
+        "episode": 21,
+        "start": "00:03.60",
+        "end": "00:35.80",
+        "start_sec": 3.6,
+        "end_sec": 35.8,
+        "duration_sec": 32.2
+      }
+    ],
+    "hook": {
+      "at": "Ep21 00:04.20",
+      "beat": "Lady Juliana! Please! You have to help me, Toby is dying!",
+      "speaker": "PRUDENCE",
+      "type": "a life-or-death threat"
+    },
+    "cliffhanger": {
+      "at": "Ep21 00:31.00",
+      "beat": "He is only seven! If you do not come, he will die! You are his only hope, Lady Juliana!",
+      "speaker": "PRUDENCE",
+      "type": "a reveal left hanging"
+    },
+    "why_it_works": "Opens on a life-or-death threat and cuts on a reveal left hanging; needs a little context to land.",
+    "why_this_rank": "Strong score; from Ep 21; good mid-funnel promo once the opening promos are live.",
+    "score": 75.69,
+    "rule_score": 75.69,
+    "post_priority": 78.69,
+    "score_parts": {
+      "hook": 0.928,
+      "cliff": 0.5,
+      "standalone": 0.72,
+      "body": 0.741,
+      "pace": 1.0
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep20 01:39.20-01:54.75 | Ep21 00:03.50-00:35.80"
+    ]
+  },
+  {
+    "rank": 16,
+    "id": "P016",
+    "type": "single",
+    "duration_sec": 51.6,
+    "segments": [
+      {
+        "episode": 32,
+        "start": "01:11.20",
+        "end": "02:02.80",
+        "start_sec": 71.2,
+        "end_sec": 122.8,
+        "duration_sec": 51.6
+      }
+    ],
+    "hook": {
+      "at": "Ep32 01:11.30",
+      "beat": "You were rejected!",
+      "speaker": "CATHERINE",
+      "type": "a direct confrontation"
+    },
+    "cliffhanger": {
+      "at": "Ep32 02:01.80",
+      "beat": "Why?!",
+      "speaker": "CATHERINE",
+      "type": "an unanswered question"
+    },
+    "why_it_works": "Opens on a direct confrontation and cuts on an unanswered question; relationships are spelled out on screen, so it plays cold.",
+    "why_this_rank": "Top-tier score; from Ep 32; spoils later twists, so post after the early-episode promos.",
+    "score": 86.0,
+    "rule_score": 86.0,
+    "post_priority": 86.0,
+    "score_parts": {
+      "hook": 0.951,
+      "cliff": 0.75,
+      "standalone": 0.96,
+      "body": 0.781,
+      "pace": 1.0
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": []
+  },
+  {
+    "rank": 17,
+    "id": "P017",
+    "type": "single",
+    "duration_sec": 27.0,
+    "segments": [
+      {
+        "episode": 22,
+        "start": "00:19.00",
+        "end": "00:46.00",
+        "start_sec": 19.0,
+        "end_sec": 46.0,
+        "duration_sec": 27.0
+      }
+    ],
+    "hook": {
+      "at": "Ep22 00:19.10",
+      "beat": "The Duchess is dying.",
+      "speaker": "LADY JULIANA",
+      "type": "a life-or-death threat"
+    },
+    "cliffhanger": {
+      "at": "Ep22 00:44.30",
+      "beat": "Who is this?",
+      "speaker": "HOUSEKEEPER",
+      "type": "someone bursting in"
+    },
+    "why_it_works": "Opens on a life-or-death threat and cuts on someone bursting in; relationships are spelled out on screen, so it plays cold.",
+    "why_this_rank": "Strong score; from Ep 22; good mid-funnel promo once the opening promos are live.",
+    "score": 74.23,
+    "rule_score": 74.23,
+    "post_priority": 77.23,
+    "score_parts": {
+      "hook": 0.704,
+      "cliff": 0.75,
+      "standalone": 0.96,
+      "body": 0.367,
+      "pace": 0.903
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep21 01:36.50-01:54.00 | Ep22 00:19.00-00:46.00",
+      "Ep22 00:19.00-00:49.20 | Ep22 01:36.00-01:55.50"
+    ]
+  },
+  {
+    "rank": 18,
+    "id": "P018",
+    "type": "continuation",
+    "duration_sec": 48.6,
+    "segments": [
+      {
+        "episode": 44,
+        "start": "00:46.40",
+        "end": "01:10.50",
+        "start_sec": 46.4,
+        "end_sec": 70.5,
+        "duration_sec": 24.1
+      },
+      {
+        "episode": 45,
+        "start": "00:00.00",
+        "end": "00:24.50",
+        "start_sec": 0.0,
+        "end_sec": 24.5,
+        "duration_sec": 24.5
+      }
+    ],
+    "hook": {
+      "at": "Ep44 00:46.60",
+      "beat": "I was supposed to be your Duchess!",
+      "speaker": "CATHERINE",
+      "type": "an identity reveal"
+    },
+    "cliffhanger": {
+      "at": "Ep45 00:22.90",
+      "beat": "You're the Duke?",
+      "speaker": "JULIANA",
+      "type": "an unanswered question"
+    },
+    "why_it_works": "Opens on an identity reveal and cuts on an unanswered question; relationships are spelled out on screen, so it plays cold. Pairs one episode's cliffhanger with the next episode's payoff.",
+    "why_this_rank": "Top-tier score; from Ep 44; spoils later twists, so post after the early-episode promos.",
+    "score": 84.99,
+    "rule_score": 84.99,
+    "post_priority": 81.99,
+    "score_parts": {
+      "hook": 0.878,
+      "cliff": 1.0,
+      "standalone": 0.88,
+      "body": 0.756,
+      "pace": 0.649
+    },
+    "qc_flags": [
+      "LATE_SERIES_SPOILER_RISK"
+    ],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep44 00:46.40-01:10.50",
+      "Ep44 00:08.60-00:19.40 | Ep44 00:46.40-01:10.50",
+      "Ep45 00:00.00-00:24.50"
+    ]
+  },
+  {
+    "rank": 19,
+    "id": "P019",
+    "type": "jumpcut",
+    "duration_sec": 43.7,
+    "segments": [
+      {
+        "episode": 32,
+        "start": "00:43.20",
+        "end": "00:54.40",
+        "start_sec": 43.2,
+        "end_sec": 54.4,
+        "duration_sec": 11.2
+      },
+      {
+        "episode": 32,
+        "start": "01:59.50",
+        "end": "02:32.00",
+        "start_sec": 119.5,
+        "end_sec": 152.0,
+        "duration_sec": 32.5
+      }
+    ],
+    "hook": {
+      "at": "Ep32 00:43.40",
+      "beat": "You still think you are better?!",
+      "speaker": "CATHERINE",
+      "type": "a direct confrontation"
+    },
+    "cliffhanger": {
+      "at": "Ep32 02:31.20",
+      "beat": "Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye.",
+      "speaker": "",
+      "type": "a blow that is about to land"
+    },
+    "why_it_works": "Opens on a direct confrontation and cuts on a blow that is about to land; needs a little context to land. Jump cut skips the slow middle.",
+    "why_this_rank": "Top-tier score; from Ep 32; spoils later twists, so post after the early-episode promos.",
+    "score": 85.49,
+    "rule_score": 85.49,
+    "post_priority": 85.49,
+    "score_parts": {
+      "hook": 0.939,
+      "cliff": 0.938,
+      "standalone": 0.6,
+      "body": 0.948,
+      "pace": 1.0
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep32 01:59.50-02:32.00"
+    ]
+  },
+  {
+    "rank": 20,
+    "id": "P020",
+    "type": "premise",
+    "duration_sec": 27.8,
+    "segments": [
+      {
+        "episode": 1,
+        "start": "00:39.00",
+        "end": "00:50.40",
+        "start_sec": 39.0,
+        "end_sec": 50.4,
+        "duration_sec": 11.4
+      },
+      {
+        "episode": 12,
+        "start": "01:05.20",
+        "end": "01:14.00",
+        "start_sec": 65.2,
+        "end_sec": 74.0,
+        "duration_sec": 8.8
+      },
+      {
+        "episode": 45,
+        "start": "00:16.90",
+        "end": "00:24.50",
+        "start_sec": 16.9,
+        "end_sec": 24.5,
+        "duration_sec": 7.6
+      }
+    ],
+    "hook": {
+      "at": "Ep1 00:39.10",
+      "beat": "Because he is marrying me.",
+      "speaker": "LADY IN GOLD GOWN",
+      "type": "a betrayal"
+    },
+    "cliffhanger": {
+      "at": "Ep45 00:22.90",
+      "beat": "You're the Duke?",
+      "speaker": "JULIANA",
+      "type": "an unanswered question"
+    },
+    "why_it_works": "Opens on a betrayal and cuts on an unanswered question; needs a little context to land. Sells the show's title premise in three beats.",
+    "why_this_rank": "Strong score; from Ep 1, so a new viewer lands right where the promo happens.",
+    "score": 73.89,
+    "rule_score": 73.89,
+    "post_priority": 79.89,
+    "score_parts": {
+      "hook": 0.642,
+      "cliff": 1.0,
+      "standalone": 0.62,
+      "body": 0.822,
+      "pace": 0.889
+    },
+    "qc_flags": [
+      "LATE_SERIES_SPOILER_RISK"
+    ],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep2 00:00.00-00:09.50 | Ep12 01:05.20-01:14.00 | Ep45 00:16.90-00:24.50"
+    ]
+  },
+  {
+    "rank": 21,
+    "id": "P021",
+    "type": "continuation",
+    "duration_sec": 45.6,
+    "segments": [
+      {
+        "episode": 12,
+        "start": "01:05.20",
+        "end": "01:27.21",
+        "start_sec": 65.2,
+        "end_sec": 87.21,
+        "duration_sec": 22.01
+      },
+      {
+        "episode": 13,
+        "start": "00:29.90",
+        "end": "00:53.50",
+        "start_sec": 29.9,
+        "end_sec": 53.5,
+        "duration_sec": 23.6
+      }
+    ],
+    "hook": {
+      "at": "Ep12 01:05.40",
+      "beat": "Fail, or refuse, and your husband hangs from the gallows.",
+      "speaker": "CLARISSA",
+      "type": "a life-or-death threat"
+    },
+    "cliffhanger": {
+      "at": "Ep13 00:51.50",
+      "beat": "Please...",
+      "speaker": "ALEXANDER",
+      "type": "a line cut off mid-sentence"
+    },
+    "why_it_works": "Opens on a life-or-death threat and cuts on a line cut off mid-sentence; needs a little context to land. Pairs one episode's cliffhanger with the next episode's payoff.",
+    "why_this_rank": "Strong score; from Ep 12; good mid-funnel promo once the opening promos are live.",
+    "score": 75.84,
+    "rule_score": 75.84,
+    "post_priority": 78.84,
+    "score_parts": {
+      "hook": 1.0,
+      "cliff": 0.512,
+      "standalone": 0.8,
+      "body": 0.793,
+      "pace": 0.854
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep13 00:24.20-00:53.50",
+      "Ep12 01:05.20-01:27.21"
+    ]
+  },
+  {
+    "rank": 22,
+    "id": "P022",
+    "type": "single",
+    "duration_sec": 34.0,
+    "segments": [
+      {
+        "episode": 46,
+        "start": "00:37.00",
+        "end": "01:11.00",
+        "start_sec": 37.0,
+        "end_sec": 71.0,
+        "duration_sec": 34.0
+      }
+    ],
+    "hook": {
+      "at": "Ep46 00:37.30",
+      "beat": "The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone.",
+      "speaker": "HIGH PRIEST",
+      "type": "a betrayal"
+    },
+    "cliffhanger": {
+      "at": "Ep46 01:06.80",
+      "beat": "Love doesn't make a Duchess, girl. Paper does.",
+      "speaker": "HIGH PRIEST",
+      "type": "a cruel line nobody has answered yet"
+    },
+    "why_it_works": "Opens on a betrayal and cuts on a cruel line nobody has answered yet; relationships are spelled out on screen, so it plays cold.",
+    "why_this_rank": "Top-tier score; from Ep 46; spoils later twists, so post after the early-episode promos.",
+    "score": 80.04,
+    "rule_score": 80.04,
+    "post_priority": 77.04,
+    "score_parts": {
+      "hook": 0.964,
+      "cliff": 0.5,
+      "standalone": 1.0,
+      "body": 0.63,
+      "pace": 1.0
+    },
+    "qc_flags": [
+      "LATE_SERIES_SPOILER_RISK"
+    ],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep46 00:37.00-01:02.80 | Ep46 02:07.20-02:13.50"
+    ]
+  },
+  {
+    "rank": 23,
+    "id": "P023",
+    "type": "single",
+    "duration_sec": 57.0,
+    "segments": [
+      {
+        "episode": 43,
+        "start": "00:00.00",
+        "end": "00:57.00",
+        "start_sec": 0.0,
+        "end_sec": 57.0,
+        "duration_sec": 57.0
+      }
+    ],
+    "hook": {
+      "at": "Ep43 00:00.60",
+      "beat": "You're lying!",
+      "speaker": "BLOND NOBLEMAN",
+      "type": "a betrayal"
+    },
+    "cliffhanger": {
+      "at": "Ep43 00:55.00",
+      "beat": "No...",
+      "speaker": "BLOND NOBLEMAN",
+      "type": "a line cut off mid-sentence"
+    },
+    "why_it_works": "Opens on a betrayal and cuts on a line cut off mid-sentence; needs a little context to land.",
+    "why_this_rank": "Top-tier score; from Ep 43; spoils later twists, so post after the early-episode promos.",
+    "score": 81.61,
+    "rule_score": 81.61,
+    "post_priority": 78.61,
+    "score_parts": {
+      "hook": 1.0,
+      "cliff": 0.594,
+      "standalone": 0.72,
+      "body": 1.0,
+      "pace": 1.0
+    },
+    "qc_flags": [
+      "LATE_SERIES_SPOILER_RISK"
+    ],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": []
+  },
+  {
+    "rank": 24,
+    "id": "P024",
+    "type": "single",
+    "duration_sec": 26.0,
+    "segments": [
+      {
+        "episode": 47,
+        "start": "01:18.80",
+        "end": "01:44.80",
+        "start_sec": 78.8,
+        "end_sec": 104.8,
+        "duration_sec": 26.0
+      }
+    ],
+    "hook": {
+      "at": "Ep47 01:18.80",
+      "beat": "Please, Alexander! Have mercy!",
+      "speaker": "CATHERINE",
+      "type": "an emotional outburst"
+    },
+    "cliffhanger": {
+      "at": "Ep47 01:41.50",
+      "beat": "You expect me to scrub floors before these commoners?",
+      "speaker": "CATHERINE",
+      "type": "an unanswered question"
+    },
+    "why_it_works": "Opens on an emotional outburst and cuts on an unanswered question; needs a little context to land.",
+    "why_this_rank": "Strong score; from Ep 47; spoils later twists, so post after the early-episode promos.",
+    "score": 79.43,
+    "rule_score": 79.43,
+    "post_priority": 76.43,
+    "score_parts": {
+      "hook": 0.838,
+      "cliff": 0.75,
+      "standalone": 0.72,
+      "body": 0.681,
+      "pace": 1.0
+    },
+    "qc_flags": [
+      "LATE_SERIES_SPOILER_RISK"
+    ],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep47 01:00.00-01:07.00 | Ep47 01:18.80-01:38.80"
+    ]
+  },
+  {
+    "rank": 25,
+    "id": "P025",
+    "type": "continuation",
+    "duration_sec": 43.6,
+    "segments": [
+      {
+        "episode": 24,
+        "start": "01:07.50",
+        "end": "01:32.00",
+        "start_sec": 67.5,
+        "end_sec": 92.0,
+        "duration_sec": 24.5
+      },
+      {
+        "episode": 25,
+        "start": "00:44.40",
+        "end": "01:03.50",
+        "start_sec": 44.4,
+        "end_sec": 63.5,
+        "duration_sec": 19.1
+      }
+    ],
+    "hook": {
+      "at": "Ep24 01:07.50",
+      "beat": "The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face.",
+      "speaker": "",
+      "type": "physical violence"
+    },
+    "cliffhanger": {
+      "at": "Ep25 01:00.80",
+      "beat": "The Dowager?",
+      "speaker": "ALEXANDER",
+      "type": "an unanswered question"
+    },
+    "why_it_works": "Opens on physical violence and cuts on an unanswered question; relationships are spelled out on screen, so it plays cold. Pairs one episode's cliffhanger with the next episode's payoff.",
+    "why_this_rank": "Strong score; from Ep 24; good mid-funnel promo once the opening promos are live.",
+    "score": 73.14,
+    "rule_score": 73.14,
+    "post_priority": 76.14,
+    "score_parts": {
+      "hook": 0.75,
+      "cliff": 0.75,
+      "standalone": 0.8,
+      "body": 0.607,
+      "pace": 0.932
+    },
+    "qc_flags": [],
+    "alternate_of": null,
+    "llm": null,
+    "alternate_cuts": [
+      "Ep24 01:07.50-01:30.10"
+    ]
+  }
+]
